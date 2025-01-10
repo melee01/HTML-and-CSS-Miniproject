@@ -1,1 +1,1 @@
-# IT-GTD-Assignment-1
+# HTML and CSS Miniproject
